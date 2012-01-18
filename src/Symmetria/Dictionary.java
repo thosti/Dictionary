@@ -18,6 +18,7 @@ import java.util.Collections;
  * @author Timo
  * ***************
  * master haaran editointeja
+ * ja lisää editointeja
  * 
  */
 public class Dictionary {
