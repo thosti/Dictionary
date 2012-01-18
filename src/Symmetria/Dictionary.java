@@ -18,6 +18,7 @@ import java.util.Collections;
  * @author Timo
  * ***************
  * onko nämä uudistukset uudessa haarassa?
+ * vielä editointeja uuteen haaraan
  * 
  */
 public class Dictionary {
