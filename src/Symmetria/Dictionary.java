@@ -16,6 +16,8 @@ import java.util.Collections;
 /**
  *
  * @author Timo
+ * ***************
+ * 
  */
 public class Dictionary {
 
