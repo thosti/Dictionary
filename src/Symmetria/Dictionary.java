@@ -19,6 +19,7 @@ import java.util.Collections;
  * ***************
  * master haaran editointeja
  * ja lisää editointeja
+ * muutoksia ja editointeja
  * 
  */
 public class Dictionary {
